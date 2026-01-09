@@ -33,7 +33,7 @@ jobs:
           path: target/maven-hello-world-1.0-SNAPSHOT.jar
 
         run: |
-          FILE=target/maven-hello-world-1.0-SNAPSHOT.jar
+          FILE=target/maven-hello-world-1.0.jar
           VERSION=1.0
           GROUP_ID=com.example
           ARTIFACT_ID=maven-hello-world
